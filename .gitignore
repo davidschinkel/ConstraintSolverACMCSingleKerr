@@ -1,0 +1,8 @@
+/run/BondiMass
+/run/SequenceElements
+/run/Created_InitialData
+/run/InitialData
+/src/ACMC_Data
+/src/dep/*
+/src/build/*
+*~
